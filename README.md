@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/cng_thrivegeo_banner.png" alt="CNG 101 workshop banner" width="95%">
+  <img src="./img/cng_thrivegeo_banner.png" alt="CNG 101 workshop banner" width="100%">
 </p>
 
 # Cloud-Native Geospatial 101: A Practical Introduction to Modern Geospatial Workflows
