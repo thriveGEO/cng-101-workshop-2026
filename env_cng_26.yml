@@ -49,6 +49,6 @@ dependencies:
   - jupyterhub-singleuser
   - jupyterlab
   - dask-labextension
-#  - jupyterlab-quarto
+  - jupyterlab-quarto
   - jupytergis
   - jupyter-tiler
