@@ -1,0 +1,54 @@
+name: cng_workshop
+
+channels:
+  - conda-forge
+  
+dependencies:
+  # Core Runtime
+  - python=3.13.11
+  - pip
+  - ipykernel  # Essential for JupyterHub 
+  - msgpack-python=1.1.2  # Matches Scheduler & Workers
+  - tornado=6.5.4         # Matches Scheduler & Workers
+  
+  # Heavy Geospatial/Math
+  - numpy=2.3.5
+  - pandas
+  - geopandas
+  - xarray
+  - dask=2026.1.1 #compatible with out JupyterHub versions
+  - distributed=2026.1.1  #compatible with our JupyterHub versions
+  - netcdf4
+  - rasterio
+  - rio-cogeo
+  - pyogrio  # engine for Geopandas
+  
+  # Data Science & Visualization
+  - matplotlib-base
+  - duckdb
+  - pyarrow
+  - shapely
+  - psutil
+  - graphviz
+  - python-graphviz
+  
+  # Cloud & Remote Sensing
+  - pystac
+  - pystac-client
+  - planetary-computer
+  - stackstac
+  - rioxarray
+  - zarr # =3.1.5
+  - fsspec
+  - s3fs
+  - adlfs
+  - boto3
+  - gcsfs
+  
+  # JupyterHub Compatibility
+  - jupyterhub-singleuser
+  - jupyterlab
+  - dask-labextension
+#  - jupyterlab-quarto
+  - jupytergis
+  - jupyter-tiler
