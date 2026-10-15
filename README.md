@@ -8,7 +8,7 @@ Hands-on notebooks that show you how to find, read and analyse geospatial data d
 
 ## About this repository
  
-This repository contains the **final solution notebooks** from **Cloud-Native Geospatial 101**, an introductory workshop on Cloud-Native Geospatial. The course was run at the **Cloud Native Geospatial Forum 2026** in **Utah, USA**, on **6 October 2026**.
+This repository contains the **final solution notebooks** from [Cloud-Native Geospatial 101](https://2026.cloudnativegeo.org/#/agenda?day=1&lang=en&sessionId=200860000000640064), an introductory workshop on Cloud-Native Geospatial. The course was run at the **Cloud Native Geospatial Forum 2026** in **Utah, USA**, on **6 October 2026**.
  
 The notebooks include both the worked examples and the solutions to the exercises. You can use them to follow the course again at your own pace, or to learn the topics from scratch.
  
@@ -87,9 +87,9 @@ We are grateful to the providers of the open data used in this course:
  
 ## Authors and contributors
  
-* [Gisela Romero Candanedo](@gisromerocandanedo), [thriveGEO](@thriveGEO)
-* [Julia Wagemann](@jwagemann), [thriveGEO](@thriveGEO)
-* [Guillaume Eynard-Bontemps](@guillaumeeb), [CNES](@CNES)
+* [[Gisela Romero Candanedo](@gisromerocandanedo)](https://github.com/gisromerocandanedo), [[thriveGEO](@thriveGEO)](https://github.com/thriveGEO)
+* [[Julia Wagemann](@jwagemann)](https://github.com/jwagemann), [[thriveGEO](@thriveGEO)](https://github.com/thriveGEO)
+* [[Guillaume Eynard-Bontemps](@guillaumeeb)](https://github.com/guillaumeeb), [[CNES](@CNES)](https://github.com/CNES)
 
  
 ## Licence
