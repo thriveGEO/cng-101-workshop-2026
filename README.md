@@ -33,9 +33,9 @@ This one idea appears again and again in the notebooks. Each format applies it i
 |---|----------|-------------|-----------|
 | 1 | [`10_intro_stac.ipynb`](./10_intro_stac.ipynb) | Connect to a STAC catalogue, browse collections and search for satellite scenes by place, date and cloud cover | Earth Search by Element 84 (Sentinel-2), EOPF Sentinel Zarr Samples Service |
 | 2 | [`21_intro_cog.ipynb`](./21_intro_cog.ipynb) | Open Cloud-Optimised GeoTIFFs and learn their structure including Tiles and Overviews | EarthSearch by Element 84 (Sentinel-2) | 
-| 3 | [`22_intro_zarr.ipynb`](./22_intro_zarr.ipynb) | Open a Zarr store from the cloud, read and write pieces of it, and learn why chunk shape decides what a question costs | ERA5 weather data, Sentinel-2 (Douro valley, Portugal) |
+| 3 | [`22_intro_zarr.ipynb`](./22_intro_zarr.ipynb) | Open a Zarr store from the cloud, read and write pieces of it, and learn why chunk shape decides what a question costs | ERA5 climate reanalysis, Sentinel-2 |
 | 4 | [`23_intro_parquet.ipynb`](./23_intro_parquet.ipynb) | Read the footer of a (Geo)Parquet file, skip folders, row groups and columns, and map the result | Overture Maps, EuroCrops dataset on Source Cooperative |
-| 5 | [`31_intro_dask.ipynb`](./31_intro_dask.ipynb) | Start a Dask cluster, understand lazy calculations and chunk sizes, and scale from one year to decades of data | ERA5 (64 Novembers at Snowbird) |
+| 5 | [`31_intro_dask.ipynb`](./31_intro_dask.ipynb) | Start a Dask cluster, understand lazy calculations and chunk sizes, and scale from one year to decades of data | ERA5 climate reanalysis |
 | 6 | [`32_intro_duckdb.ipynb`](./32_intro_duckdb.ipynb) | Write your first SQL queries on cloud data, watch DuckDB skip data, and save results as GeoParquet | Overture Maps |
  
 ### Suggested order
