@@ -2,8 +2,7 @@
   <img src="./img/cng_thrivegeo_banner.png" alt="CNG 101 workshop banner" width="95%">
 </p>
 
-# Cloud-Native Geospatial 101 
-## A Practical Introduction to Modern Geospatial Workflows
+# Cloud-Native Geospatial 101: A Practical Introduction to Modern Geospatial Workflows
  
 Hands-on notebooks that show you how to find, read and analyse geospatial data directly in the cloud.
 
@@ -13,7 +12,8 @@ This repository contains the **final solution notebooks** from **Cloud-Native Ge
  
 The notebooks include both the worked examples and the solutions to the exercises. You can use them to follow the course again at your own pace, or to learn the topics from scratch.
  
-**Who is it for?** Anyone who knows a little Python and wants to understand how modern geospatial data formats work. You don't need to know STAC, COG, Zarr, Parquet, Dask or SQL beforehand. Every concept is explained as it appears.
+**Who is it for?** <br>
+Anyone who knows a little Python and wants to understand how modern geospatial data formats work. You don't need to know STAC, COG, Zarr, Parquet, Dask or SQL beforehand. Every concept is explained as it appears.
  
 ## What is Cloud-Native Geospatial?
  
@@ -52,7 +52,7 @@ Work through the notebooks in the order above. They build on each other:
  
 ### What you need
  
-- Python 3.12.11
+- Python 3.13.11
 - A web connection, because the data is read directly from the cloud
 - The main libraries used in the notebooks: `pystac-client`, `xarray`, `zarr`, `dask`, `geopandas`, `pyarrow`, `s3fs`, `duckdb`, `rasterio`, and `matplotlib`
  
@@ -87,9 +87,9 @@ We are grateful to the providers of the open data used in this course:
  
 ## Authors and contributors
  
-* @gisromerocandanedo, @thriveGEO
-* @jwagemann, @thriveGEO
-* @guillaumeeb, @CNES
+* [Gisela Romero Candanedo](@gisromerocandanedo), [thriveGEO](@thriveGEO)
+* [Julia Wagemann](@jwagemann), [thriveGEO](@thriveGEO)
+* [Guillaume Eynard-Bontemps](@guillaumeeb), [CNES](@CNES)
 
  
 ## Licence
