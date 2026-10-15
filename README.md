@@ -87,9 +87,9 @@ We are grateful to the providers of the open data used in this course:
  
 ## Authors and contributors
  
-* [[Gisela Romero Candanedo](@gisromerocandanedo)](https://github.com/gisromerocandanedo), [[thriveGEO](@thriveGEO)](https://github.com/thriveGEO)
-* [[Julia Wagemann](@jwagemann)](https://github.com/jwagemann), [[thriveGEO](@thriveGEO)](https://github.com/thriveGEO)
-* [[Guillaume Eynard-Bontemps](@guillaumeeb)](https://github.com/guillaumeeb), [[CNES](@CNES)](https://github.com/CNES)
+* [Gisela Romero Candanedo](https://github.com/gisromerocandanedo), [thriveGEO](https://github.com/thriveGEO)
+* [Julia Wagemann](https://github.com/jwagemann), [thriveGEO](https://github.com/thriveGEO)
+* [Guillaume Eynard-Bontemps](https://github.com/guillaumeeb), [CNES](https://github.com/CNES)
 
  
 ## Licence
