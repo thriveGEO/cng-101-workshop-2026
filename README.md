@@ -59,8 +59,8 @@ Work through the notebooks in the order above. They build on each other:
  
 1. Clone the repository:
 ```bash
-   git clone [REPOSITORY URL]
-   cd [REPOSITORY NAME]
+   git clone [https://github.com/thriveGEO/cng-101-workshop-2026]
+   cd cng-101-workshop-2026
 ```
  
 2. Create the environment:
@@ -86,16 +86,18 @@ We are grateful to the providers of the open data used in this course:
  
 ## Authors and contributors
  
-* Gisela Romero Candanedo, thriveGEO GmbH
-* @jwagemann, thriveGEO GmbH
-* Guillaume Eynard-Bontemps, CNES
+* @gisromerocandanedo, @thriveGEO
+* @jwagemann, @thriveGEO
+* @guillaumeeb, @CNES
 
  
 ## Licence
- 
-- **Code:** [LICENCE, for example MIT]
-- **Text and images in the notebooks:** CC BY 4.0
-- **Data:** each dataset keeps its own licence. Please check the providers listed above.
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a>
+<br />
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## How to cite
  
