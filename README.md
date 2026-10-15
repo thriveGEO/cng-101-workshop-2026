@@ -4,7 +4,7 @@
 
 # Cloud-Native Geospatial 101: A Practical Introduction to Modern Geospatial Workflows
  
-Hands-on notebooks that show you how to find, read and analyse geospatial data directly in the cloud.
+Hands-on notebooks that show you how to work with satellite and geospatial data in the cloud.
 
 ## About this repository
  
